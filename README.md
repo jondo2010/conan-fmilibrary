@@ -1,2 +1,5 @@
+[![Build Status](https://travis-ci.org/jondo2010/conan-fmilibrary.svg)](https://travis-ci.org/jondo2010/conan-fmilibrary)
+
 # conan-fmilibrary
-FMILibrary package for conan.io
+
+[Conan.io](https://conan.io) package for FMILibrary
